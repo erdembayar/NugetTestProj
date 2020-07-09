@@ -1,0 +1,259 @@
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0019\Lib0019.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0018\Lib0018.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0017\Lib0017.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0016\Lib0016.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0015\Lib0015.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0014\Lib0014.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0013\Lib0013.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0012\Lib0012.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0011\Lib0011.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0010\Lib0010.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0009\Lib0009.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0008\Lib0008.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0007\Lib0007.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0006\Lib0006.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0005\Lib0005.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0004\Lib0004.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0003\Lib0003.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0002\Lib0002.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0001\Lib0001.csproj...
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Root\Root.csproj...
+Installing NuGet package jQuery 3.5.1.
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0019\obj\Lib0019.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0019\obj\project.assets.json
+Successfully installed 'jQuery 3.5.1' to Lib0019
+Executing nuget actions took 682 ms
+Installing NuGet package jQuery 3.5.1.
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0018\obj\Lib0018.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0018\obj\project.assets.json
+Successfully installed 'jQuery 3.5.1' to Lib0018
+Executing nuget actions took 724 ms
+Installing NuGet package jQuery 3.5.1.
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0017\obj\Lib0017.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0017\obj\project.assets.json
+Successfully installed 'jQuery 3.5.1' to Lib0017
+Executing nuget actions took 1.72 sec
+Installing NuGet package jQuery 3.5.1.
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0016\obj\Lib0016.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0016\obj\project.assets.json
+Successfully installed 'jQuery 3.5.1' to Lib0016
+Executing nuget actions took 2.07 sec
+Installing NuGet package jQuery 3.5.1.
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0015\obj\Lib0015.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0015\obj\project.assets.json
+Successfully installed 'jQuery 3.5.1' to Lib0015
+Executing nuget actions took 1.38 sec
+Installing NuGet package jQuery 3.5.1.
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0014\obj\Lib0014.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0014\obj\project.assets.json
+Successfully installed 'jQuery 3.5.1' to Lib0014
+Executing nuget actions took 1.95 sec
+Installing NuGet package jQuery 3.5.1.
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0007\obj\Lib0007.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0007\obj\project.assets.json
+Successfully installed 'jQuery 3.5.1' to Lib0007
+Executing nuget actions took 1.35 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0012\Lib0012.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0012\obj\Lib0012.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0012\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0012
+Executing nuget actions took 1.1 sec
+Installing NuGet package jQuery 3.5.1.
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0011\obj\Lib0011.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0011\obj\project.assets.json
+Successfully installed 'jQuery 3.5.1' to Lib0011
+Executing nuget actions took 1.29 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0010\Lib0010.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0010\obj\Lib0010.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0010\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0010
+Executing nuget actions took 1.72 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0009\Lib0009.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0009\obj\Lib0009.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0009\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0009
+Executing nuget actions took 883 ms
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0013\Lib0013.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0013\obj\Lib0013.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0013\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0013
+Executing nuget actions took 1.5 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0008\Lib0008.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0008\obj\Lib0008.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0008\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0008
+Executing nuget actions took 3.94 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0006\Lib0006.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0006\obj\Lib0006.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0006\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0006
+Executing nuget actions took 2.73 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0005\Lib0005.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0005\obj\Lib0005.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0005\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0005
+Executing nuget actions took 2.4 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0004\Lib0004.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0004\obj\Lib0004.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0004\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0004
+Executing nuget actions took 2.49 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0003\Lib0003.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0003\obj\Lib0003.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0003\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0003
+Executing nuget actions took 1.94 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0002\Lib0002.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0002\obj\Lib0002.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0002\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0002
+Executing nuget actions took 2.26 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Lib0001\Lib0001.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Lib0001\obj\Lib0001.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Lib0001\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Lib0001
+Executing nuget actions took 2.48 sec
+Installing NuGet package jQuery 3.5.1.
+Restoring packages for C:\Users\eryondon\Downloads\M.Core (1)\Root\Root.csproj...
+Committing restore...
+Generating MSBuild file C:\Users\eryondon\Downloads\M.Core (1)\Root\obj\Root.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\eryondon\Downloads\M.Core (1)\Root\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\eryondon\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json
+Successfully installed 'jQuery 3.5.1' to Root
+Executing nuget actions took 2.51 sec
+Time Elapsed: 00:00:38.6458290
+========== Finished ==========
+
+Time Elapsed: 00:00:00.3765939
+========== Finished ==========
+
+
+Time Elapsed: 00:00:00.1499208
+========== Finished ==========
+
+
