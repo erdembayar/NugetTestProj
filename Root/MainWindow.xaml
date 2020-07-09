@@ -1,0 +1,14 @@
+<Window x:Class="Root.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:Root" mc:Ignorable="d" Title="MainWindow" Height="450" Width="800" xmlns:Lib0002="clr-namespace:Lib0002;assembly=Lib0002" xmlns:Lib0007="clr-namespace:Lib0007;assembly=Lib0007" xmlns:Lib0008="clr-namespace:Lib0008;assembly=Lib0008" xmlns:Lib0001="clr-namespace:Lib0001;assembly=Lib0001" xmlns:Lib0003="clr-namespace:Lib0003;assembly=Lib0003" xmlns:Lib0004="clr-namespace:Lib0004;assembly=Lib0004" xmlns:Lib0005="clr-namespace:Lib0005;assembly=Lib0005" xmlns:Lib0006="clr-namespace:Lib0006;assembly=Lib0006" xmlns:Lib0009="clr-namespace:Lib0009;assembly=Lib0009" xmlns:Lib0010="clr-namespace:Lib0010;assembly=Lib0010">
+  <Grid>
+    <Lib0002:UserControl1 />
+    <Lib0007:UserControl1 />
+    <Lib0008:UserControl1 />
+    <Lib0001:UserControl1 />
+    <Lib0003:UserControl1 />
+    <Lib0004:UserControl1 />
+    <Lib0005:UserControl1 />
+    <Lib0006:UserControl1 />
+    <Lib0009:UserControl1 />
+    <Lib0010:UserControl1 />
+  </Grid>
+</Window>

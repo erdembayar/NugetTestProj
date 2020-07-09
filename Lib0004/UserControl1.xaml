@@ -1,0 +1,7 @@
+<UserControl x:Class="Lib0004.UserControl1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:local="clr-namespace:Lib0004" mc:Ignorable="d" d:DesignHeight="450" d:DesignWidth="800" xmlns:Lib0013="clr-namespace:Lib0013;assembly=Lib0013" xmlns:Lib0015="clr-namespace:Lib0015;assembly=Lib0015" xmlns:Lib0016="clr-namespace:Lib0016;assembly=Lib0016">
+  <Grid>
+    <Lib0013:UserControl1 />
+    <Lib0015:UserControl1 />
+    <Lib0016:UserControl1 />
+  </Grid>
+</UserControl>

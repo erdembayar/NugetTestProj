@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ProjectGuid>{dcbd384a-6d29-4fe7-b4b3-4d18c6332f53}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lib0017\Lib0017.csproj">
+      <Project>{50f11553-23e5-4018-b3b2-117d49faa607}</Project>
+      <Name>Lib0017</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Source0001.cs" />
+    <Compile Include="..\Source0002.cs" />
+    <Compile Include="..\Source0003.cs" />
+    <Compile Include="..\Source0004.cs" />
+    <Compile Include="..\Source0005.cs" />
+    <Compile Include="..\Source0006.cs" />
+    <Compile Include="..\Source0007.cs" />
+    <Compile Include="..\Source0008.cs" />
+    <Compile Include="..\Source0009.cs" />
+    <Compile Include="..\Source0010.cs" />
+    <Compile Include="..\Source0011.cs" />
+    <Compile Include="..\Source0012.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="jQuery" Version="3.5.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+</Project>
